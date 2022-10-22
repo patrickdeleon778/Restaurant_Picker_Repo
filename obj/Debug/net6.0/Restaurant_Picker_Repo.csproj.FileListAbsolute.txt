@@ -1,0 +1,15 @@
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/bin/Debug/net6.0/Restaurant_Picker_Repo
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/bin/Debug/net6.0/Restaurant_Picker_Repo.deps.json
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/bin/Debug/net6.0/Restaurant_Picker_Repo.runtimeconfig.json
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/bin/Debug/net6.0/Restaurant_Picker_Repo.dll
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/bin/Debug/net6.0/Restaurant_Picker_Repo.pdb
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/obj/Debug/net6.0/Restaurant_Picker_Repo.csproj.AssemblyReference.cache
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/obj/Debug/net6.0/Restaurant_Picker_Repo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/obj/Debug/net6.0/Restaurant_Picker_Repo.AssemblyInfoInputs.cache
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/obj/Debug/net6.0/Restaurant_Picker_Repo.AssemblyInfo.cs
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/obj/Debug/net6.0/Restaurant_Picker_Repo.csproj.CoreCompileInputs.cache
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/obj/Debug/net6.0/Restaurant_Picker_Repo.dll
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/obj/Debug/net6.0/refint/Restaurant_Picker_Repo.dll
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/obj/Debug/net6.0/Restaurant_Picker_Repo.pdb
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/obj/Debug/net6.0/Restaurant_Picker_Repo.genruntimeconfig.cache
+/Users/patrickdeleon7/Documents/Codestack/Level1_Mac/RestaurantPicker_LocalRev/Restaurant_Picker_Repo/obj/Debug/net6.0/ref/Restaurant_Picker_Repo.dll
