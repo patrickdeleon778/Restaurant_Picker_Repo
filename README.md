@@ -1,12 +1,12 @@
 // ================== RESTAURANT PICKER _ GIT HUB ==================== //
 
-Name:
+Name: Patrick De Leon
 
-Date:
+Date: 10/21/22
 
-Peer Reviewer:
+Peer Reviewer: Zac Rice
 
-Peer Comment:
+Peer Comment: Very well done and works perfectly
 
 
 
