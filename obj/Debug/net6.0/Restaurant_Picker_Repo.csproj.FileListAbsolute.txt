@@ -28,3 +28,18 @@ C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\Pat
 C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\PatrickResturantPicker\Restaurant_Picker_Repo\obj\Debug\net6.0\Restaurant_Picker_Repo.pdb
 C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\PatrickResturantPicker\Restaurant_Picker_Repo\obj\Debug\net6.0\Restaurant_Picker_Repo.genruntimeconfig.cache
 C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\PatrickResturantPicker\Restaurant_Picker_Repo\obj\Debug\net6.0\ref\Restaurant_Picker_Repo.dll
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\bin\Debug\net6.0\Restaurant_Picker_Repo.exe
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\bin\Debug\net6.0\Restaurant_Picker_Repo.deps.json
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\bin\Debug\net6.0\Restaurant_Picker_Repo.runtimeconfig.json
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\bin\Debug\net6.0\Restaurant_Picker_Repo.dll
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\bin\Debug\net6.0\Restaurant_Picker_Repo.pdb
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\obj\Debug\net6.0\Restaurant_Picker_Repo.csproj.AssemblyReference.cache
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\obj\Debug\net6.0\Restaurant_Picker_Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\obj\Debug\net6.0\Restaurant_Picker_Repo.AssemblyInfoInputs.cache
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\obj\Debug\net6.0\Restaurant_Picker_Repo.AssemblyInfo.cs
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\obj\Debug\net6.0\Restaurant_Picker_Repo.csproj.CoreCompileInputs.cache
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\obj\Debug\net6.0\Restaurant_Picker_Repo.dll
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\obj\Debug\net6.0\refint\Restaurant_Picker_Repo.dll
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\obj\Debug\net6.0\Restaurant_Picker_Repo.pdb
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\obj\Debug\net6.0\Restaurant_Picker_Repo.genruntimeconfig.cache
+C:\Users\zerot\Documents\Codestack\Assignments zips\DeLeonP_C#GitHubChallenges\RestaurantPicker\Restaurant_Picker_Repo\obj\Debug\net6.0\ref\Restaurant_Picker_Repo.dll

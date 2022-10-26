@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\zac22\\.nuget\\packages\\": {}
+    "C:\\Users\\zerot\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\GithubPeerReviews\\PatrickResturantPicker\\Restaurant_Picker_Repo\\Restaurant_Picker_Repo.csproj",
+      "projectUniqueName": "C:\\Users\\zerot\\Documents\\Codestack\\Assignments zips\\DeLeonP_C#GitHubChallenges\\RestaurantPicker\\Restaurant_Picker_Repo\\Restaurant_Picker_Repo.csproj",
       "projectName": "Restaurant_Picker_Repo",
-      "projectPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\GithubPeerReviews\\PatrickResturantPicker\\Restaurant_Picker_Repo\\Restaurant_Picker_Repo.csproj",
-      "packagesPath": "C:\\Users\\zac22\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zac22\\Documents\\~Programming\\Level1\\program_Stuff\\GithubPeerReviews\\PatrickResturantPicker\\Restaurant_Picker_Repo\\obj\\",
+      "projectPath": "C:\\Users\\zerot\\Documents\\Codestack\\Assignments zips\\DeLeonP_C#GitHubChallenges\\RestaurantPicker\\Restaurant_Picker_Repo\\Restaurant_Picker_Repo.csproj",
+      "packagesPath": "C:\\Users\\zerot\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zerot\\Documents\\Codestack\\Assignments zips\\DeLeonP_C#GitHubChallenges\\RestaurantPicker\\Restaurant_Picker_Repo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\zac22\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\zerot\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

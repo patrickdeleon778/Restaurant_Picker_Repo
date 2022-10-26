@@ -26,12 +26,12 @@ int num;
             userNum = Console.ReadLine();
             isNum = int.TryParse(userNum, out num);
 
-            if(isNum != true)
+            if(isNum != true || num >= 5)
             {
                 Console.Write("ENTER A VALID NUMBER!!!! ENTER A NUMBER: ");
             }
         }
-        while(isNum != true);
+        while(isNum != true || num >= 5);
 
         if(num == 1)
         {
